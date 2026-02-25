@@ -26,3 +26,5 @@ print(type('RayRay')) #should return string
 print(type([1, 2, 3])) #should return list
 print(type({'name': 'RayRay'})) #should return dictionary
 print(type({9.8, 3.14, 2.7})) #should return set
+
+#for pr only
